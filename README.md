@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# react-auth
-User login and signup using Reat JS and Firebase.
-
-Read article on [medium](https://medium.com/@Rushabh_/implementing-user-login-and-signup-with-reactjs-and-firebase-a-comprehensive-guide-7300bd33cb01)
+npm install bootstrap
+npm install firebase
+npm install react-bootstrap
+npm install react-google-button
+npm install react-router-dom
+npm install web-vitals
+npm install axios
